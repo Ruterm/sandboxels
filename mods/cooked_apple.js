@@ -15,7 +15,7 @@ elements.cooked_apple = {
 elements.iced_apple = {
 	color: "#f7a37e",
 	behavior: behaviors.WALL,
-	temp: 20,
+	temp: -20,
 	category: "states",
 	state: "solid",
 	tempHigh: 10,
