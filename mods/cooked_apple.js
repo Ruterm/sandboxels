@@ -22,5 +22,16 @@ elements.iced_apple = {
 	stateHigh: "cooked_apple",
 	density: 745
 };
+
+elements.apple = {
+	color: "#c74040",
+	behavior: behaviors.POWDER,
+	temp: 20,
+	category: "food",
+	state: "solid",
+	tempHigh: 568,
+	stateHigh: "ash",
+	density: 545 
+};
 		
 	
