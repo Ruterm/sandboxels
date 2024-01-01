@@ -1,6 +1,6 @@
 //В этом моде я добавил печёное яблоко
 elements.cooked_apple = {
-    color: "#271f1c",
+    color: "#bf5026",
     behavior: behaviors.POWDER,
     temp: 20,
     category: "food",
